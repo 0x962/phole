@@ -30,3 +30,7 @@
 0.0.0.0 ww16.events.nordea.whatsapp.com----m.com
 0.0.0.0 ww16.poc-globalgarden.whatsapp.com----m.com
 0.0.0.0 ww16.events.prod-bdtd-olivergal-com.whatsapp.com----m.com 
+0.0.0.0 ww16.rtr2b-eu.whatsapp.com----m.com
+0.0.0.0 ww16.test-204-events.whatsapp.com----m.com
+0.0.0.0 ww16.testel.whatsapp.com----m.com
+0.0.0.0 ww16.uploads2orestevents.whatsapp.com----m.com
