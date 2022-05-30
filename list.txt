@@ -1,7 +1,7 @@
 # No Facebook. 
 0.0.0.0 facebook.com
 0.0.0.0 www.facebook.com
-0.0.0.0 m.Facebook.com
+0.0.0.0 m.facebook.com
 
 # WhatsApp Event Domains
 0.0.0.0 ww16.americantvevents.whatsapp.com----m.com
